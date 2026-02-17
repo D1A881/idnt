@@ -1,0 +1,16 @@
+Type, Code
+Desktop,DT
+Laptop,LT
+Tablet,TB
+Mobile,MB 
+Switch,SW
+Router,RT
+Printer-Laser,PL
+Printer-Ink,PI
+Printer-Label,PZ
+Printer-Thermal,PT 
+Server-Physical,SP
+Server-Container,SC
+Server-Virtual,SV
+Server-Docker,SD
+Server-Kbrnts,SK
