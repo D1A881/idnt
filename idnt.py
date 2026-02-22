@@ -241,7 +241,7 @@ class DeviceNamingTool:
 
     def open_web(self):
         """Open default browser with website link"""
-        webbrowser.open("https://slack.net/~billy/idnt/")
+        webbrowser.open("https://github.com/D1A881/idnt")
 
 
 def main():
